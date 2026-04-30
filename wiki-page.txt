@@ -15,7 +15,7 @@
     <a href="https://en.wikipedia.org/wiki/Brown_bear", style="font-size: 20px;">Learn more</a>    
     <br>
 
-    <h2>Here are some bear species:</h2>
+    <h2><b>Here are some bear species:</b></h2>
     <ul style="font-size: 20px;">
         <li>Arctos</li>
         <li>Collarus</li>
@@ -23,7 +23,7 @@
         <li>Nelsoni (extinct)</li>
     </ul>
 
-    <h3>The following countries have the largest populations of brown bears:</h3>
+    <h3><b>The following countries have the largest populations of brown bears:</b></h3>
     <ol style="font-size: 28px;">
         <li>Russia</li>
         <li>United States</li>
