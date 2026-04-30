@@ -30,6 +30,6 @@
         <li>Canada</li>
 	<li>Mexico</li>
     </ol>
-    <img src="bear.jpg" width="256">
+    
 </body>
 </html>
