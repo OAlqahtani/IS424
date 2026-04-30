@@ -28,6 +28,7 @@
         <li>Russia</li>
         <li>United States</li>
         <li>Canada</li>
+	<li>Mexico</li>
     </ol>
     <img src="bear.jpg" width="256">
 </body>
