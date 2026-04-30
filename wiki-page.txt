@@ -23,7 +23,7 @@
         <li>Nelsoni (extinct)</li>
     </ul>
 
-    <h2>The following countries have the largest populations of brown bears:</h2>
+    <h3>The following countries have the largest populations of brown bears:</h3>
     <ol style="font-size: 28px;">
         <li>Russia</li>
         <li>United States</li>
